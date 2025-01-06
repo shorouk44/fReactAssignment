@@ -1,0 +1,7 @@
+.bg{
+background-image: url(../../assets/astronaut-diving-digital-art.jpg);
+background-size: cover;
+  background-position: center;
+  height: 100vh; 
+  width: 100%;
+}
