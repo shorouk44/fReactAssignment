@@ -1,6 +1,4 @@
 import React from "react";
-import style from "./Cards.module.css";
-
 
 import photo1 from "../../assets/man.jpg";
 import photo2 from "../../assets/astronaut-diving-digital-art.jpg";
