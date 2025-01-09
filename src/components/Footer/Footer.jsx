@@ -24,10 +24,10 @@ export default function Footer() {
                 <div className=" card-body text-center">
                   <h3>AROUND THE WEB</h3>
                   <div className="icons">
-                    <i class="fa-brands fa-facebook mx-1 icon"></i>
-                    <i class="fa-brands fa-twitter mx-1 icon"></i>
-                    <i class="fa-brands fa-linkedin-in mx-1 icon"></i>
-                    <i class="fa-solid fa-globe mx-1 icon"></i>
+                    <i className="fa-brands fa-facebook mx-1 icon"></i>
+                    <i className="fa-brands fa-twitter mx-1 icon"></i>
+                    <i className="fa-brands fa-linkedin-in mx-1 icon"></i>
+                    <i className="fa-solid fa-globe mx-1 icon"></i>
                   </div>
                 </div>
               </div>

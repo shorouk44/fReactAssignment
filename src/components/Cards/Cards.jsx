@@ -24,38 +24,38 @@ export default function Cards() {
     <>
  
   <div className="col-md-4 col-sm-12">
-        <div class="card">
-          <img src={photo1} alt="" onClick={photoClick }  />
+        <div className="card">
+          <img src={photo1} alt="" onClick={photoClick }/>
         </div>
       </div>
 
       <div className="col-md-4 col-sm-12">
-        <div class="card">
-          <img src={photo2} alt="" onClick={photoClick } />
+        <div  className="card">
+          <img src={photo2} alt="" onClick={photoClick }/>
         </div>
       </div>
 
       <div className="col-md-4 col-sm-12">
-        <div class="card">
-          <img src={photo3} alt="" onClick={photoClick }  />
+        <div className="card">
+          <img src={photo3} alt="" onClick={photoClick } />
         </div>
       </div>
 
       <div className="col-md-4 col-sm-12">
-        <div class="card">
-          <img src={photo4} alt="" onClick={photoClick }   />
+        <div  className="card">
+          <img src={photo4} alt="" onClick={photoClick }/>
         </div>
       </div>
 
       <div className="col-md-4 col-sm-12">
-        <div class="card">
-          <img src={photo5} alt=""  onClick={photoClick } />
+        <div  className="card">
+          <img src={photo5} alt=""  onClick={photoClick }/>
         </div>
       </div>
 
       <div className="col-md-4 col-sm-12">
-        <div class="card">
-          <img src={photo6} alt=""  onClick={photoClick } />
+        <div  className="card">
+          <img src={photo6} alt=""  onClick={photoClick }/>
         </div>
       </div>
     </>
